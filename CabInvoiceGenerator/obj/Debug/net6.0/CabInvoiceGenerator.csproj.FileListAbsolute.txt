@@ -1,0 +1,15 @@
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.exe
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.deps.json
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.runtimeconfig.json
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.dll
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\bin\Debug\net6.0\ref\CabInvoiceGenerator.dll
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfo.cs
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.dll
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\ref\CabInvoiceGenerator.dll
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\$Donald\BridgeLabz\Visual Studio\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.genruntimeconfig.cache
